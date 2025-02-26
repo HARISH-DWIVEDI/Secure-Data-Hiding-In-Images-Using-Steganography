@@ -1,5 +1,3 @@
-Here's a properly formatted `README.md` file for your Image Steganography project:
-
 ---
 
 # Image Steganography Using LSB Technique
@@ -88,5 +86,3 @@ To retrieve the hidden message from `encrypted.png`, you will need to provide th
 - The **LSB technique** is a popular method in the field of steganography for hiding data within images.
 
 ---
-
-This `README.md` file is structured to provide users with an easy-to-follow guide, from setting up the environment to running the project, and provides necessary acknowledgments and descriptions of the features.
